@@ -1,0 +1,27 @@
+_repo: US-Copyright-Renewals-Artwork-1960-1964-Catalog-of-Copyright-Entries_54299
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Library of Congress. Copyright Office
+    aliases:
+    - Office, U.S. Copyright
+    - Library of Congress. Register of Copyrights
+    - United States. Copyright Office
+    - Congress, U. S. Copyright Office Library of
+    gutenberg_agent_id: '141'
+    url: http://www.gutenberg.org/2009/agents/141
+description: ''
+gutenberg_issued: '2017-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Copyright -- Art -- United States -- Catalogs -- Periodicals'
+- !lcc 'Z'
+- GITenberg
+title: "U.S. Copyright Renewals: Artwork 1960-1964\r\nCatalog of Copyright Entries"
+url: http://www.gutenberg.org/ebooks/54299
